@@ -20,7 +20,7 @@ Now, you should be able to run TouchDesigner and find Vision Background under th
 
 ⚠️ macOS may prevent the plugin from loading after download due to security quarantine flags. To fix this, open Terminal and type (without running):
 
-`xattr -d -r com.apple.quarantine ~/Library/Application\ Support/Derivative/TouchDesigner099/Plugins/FreenectTD.plugin`
+`xattr -d -r com.apple.quarantine ~/Library/Application\ Support/Derivative/TouchDesigner099/Plugins/VisionBackgroundTOP.plugin`
 
 ### Option 2 — Project-specific Installation
 
